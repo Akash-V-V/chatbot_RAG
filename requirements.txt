@@ -1,0 +1,7 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+pinecone>=3.0.0
+groq>=0.9.0
+python-dotenv>=1.0.0
+PyMuPDF>=1.23.0
+sentence-transformers>=3.0.0
